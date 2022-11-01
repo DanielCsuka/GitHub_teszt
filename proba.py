@@ -1,1 +1,1 @@
-print('Ez csak egy próba')
+print('Ez csak egy próba!')
